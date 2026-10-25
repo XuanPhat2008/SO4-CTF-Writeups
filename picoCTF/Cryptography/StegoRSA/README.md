@@ -2,7 +2,7 @@
 
 - **Platform:** Verify before publishing
 - **Category:** Cryptography / Steganography
-- **Difficulty:** Not specified
+- **Difficulty:** Easy
 - **Tools:** ExifTool, CyberChef, OpenSSL
 
 ## Objective
